@@ -1,7 +1,7 @@
-#### Hey there👋
-#### I'm Jayati,
-A Computer Engineering Undergrad from India!
-                                    ![I'm Jayati,](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)
+####                                                              Hey there👋
+####                                                              I'm Jayati,
+   A Computer Engineering Undergrad from India!
+  ![I'm Jayati,](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)
 
 
 
