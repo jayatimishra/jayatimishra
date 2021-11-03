@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" media="all" href="styles.css" />
 
-<h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jayati Mishra </h1>
+<h1 align="center">Hey there! I'm Jayati Mishra </h1>
 <h2 align="center" class="noborder">A COE undergrad from India 🇮🇳</h2>
 <br>
   <img align="right" alt="GIF" src=https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif width="45%" style="margin:0 50px;"> 
