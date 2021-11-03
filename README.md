@@ -32,7 +32,7 @@
 <img   width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayatimishra&theme=radical&hide_border=true&include_all_commits=true&hide_title=true" />
   
   <br><br>
-<img alt="Jayati's Activity Graph" width="99%" src="https://activity-graph.herokuapp.com/graph?username=jayatimishra&bg_color=1A0217&color=6CFBE8&line=FD5DA8&point=ffffff&hide_border=true">
+<img alt="Jayati's Activity Graph" width="99%" src="https://activity-graph.herokuapp.com/graph?username=jayatimishra&bg_color=19012B &color=6CFBE8&line=FD5DA8&point=ffffff&hide_border=true">
   
 </a>
 </p>
