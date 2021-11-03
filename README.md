@@ -32,4 +32,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayatimishra&show_icons=true&locale=en&layout=compact" alt="jayatimishra" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayatimishra&" alt="jayatimishra" /></p>
+<img   width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayatimishra&theme=radical&hide_border=true&include_all_commits=true&hide_title=true" />
