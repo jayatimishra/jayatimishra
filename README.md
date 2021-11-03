@@ -1,6 +1,9 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<link rel="stylesheet" type="text/css" media="all" href="styles.css" />
 
-<p align="left"> <a href="https://twitter.com/hermgrange23" target="blank"><img src="https://img.shields.io/twitter/follow/hermgrange23?logo=twitter&style=for-the-badge" alt="hermgrange23" /></a> </p>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jayati Mishra </h1>
+<h2 align="center" class="noborder">I'm a COE undergrad from India 🇮🇳</h2>
+<br>
+  <img align="right" alt="GIF" src=https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif width="45%" style="margin:0 50px;"> 
 
 - 🔭 I’m currently working on **SynthText**
 
