@@ -5,7 +5,19 @@
 <br>
   <img align="right" alt="GIF" src=https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif width="45%" style="margin:0 50px;"> 
 
-- 🔭 I’m currently working on **SynthText**
+
+<h3>Here's my intro:</h3>
+
+- 🔭 I’m currently working on <a href=https://github.com/ankush-me/SynthText></a> **SynthText**
+- 🌱 I’m currently learning Deep Learning
+- 👯 I’m looking to collaborate on App Development Projects implementing Flutter 
+- 🤝 I'm looking for help with Data Structures and Algos
+- 🎶 I'm a music aficionado...
+- 😄 Pronouns: She/Her 
+- ⚡ Fun fact: I was srydying in my 11th school in 10th grade 🤓 
+
+<br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
