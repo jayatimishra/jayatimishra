@@ -29,7 +29,7 @@
 <a href="https://github.com/jayatimishra">
 <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayatimishra&layout=compact&theme=radical&hide_border=true&hide_title=true" />
 
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayatimishra&heme=omni&hide_border=true&hide_title=true&hide_border=true&include_all_commits=true&hide_title=true" />
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayatimishra&heme=radical&h&hide_border=true&include_all_commits=true&hide_title=true" />
 <img alt="Jayati's Activity Graph" width="99%" src="https://activity-graph.herokuapp.com/graph?username=jayatimishra&bg_color=1A0217&color=6CFBE8&line=FD5DA8&point=ffffff&hide_border=true">
   
 </a>
