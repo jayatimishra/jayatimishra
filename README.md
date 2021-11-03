@@ -1,23 +1,38 @@
-####                                                              Hey there👋
-####                                                              I'm Jayati,
-   A Computer Engineering Undergrad from India!
-  ![I'm Jayati,](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)
+<link rel="stylesheet" type="text/css" media="all" href="styles.css" />
+
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jayati Mishra </h1>
+<h2 align="center" class="noborder">I'm a COE undergrad from India 🇮🇳</h2>
+<br>
+  <img align="right" alt="GIF" src=https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif width="45%" style="margin:0 50px;"> 
 
 
+<p align="left"> <a href="https://twitter.com/hermgrange23" target="blank"><img src="https://img.shields.io/twitter/follow/hermgrange23?logo=twitter&style=for-the-badge" alt="hermgrange23" /></a> </p>
 
-- 🔭 I’m currently working on SynthText 
-- 🌱 I’m currently learning Deep Learning 
-- 👯 I’m looking to collaborate on App Development Projects using Flutter 
-- 🤔 I’m looking for help with Data Structures 
-- 😄 Pronouns: She/her 
-- ⚡ Fun fact: It was my 11th school in 10th grade 🤓 
+<h3>Here's my intro:</h3>
+- 🔭 I’m currently working on <a href=https://github.com/ankush-me/SynthText></a> **SynthText**
+- 🌱 I’m currently learning Deep Learning
+- 👯 I’m looking to collaborate on App Development Projects implementing Flutter 
+- 🤝 I'm looking for help with Data Structures and Algos
+- 🎶 I'm a music aficionado...
+- 😄 Pronouns: She/Her 
+- ⚡ Fun fact: I was srydying in my 11th school in 10th grade 🤓
 
+<br>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jayatimishra)  [<img src='<img src="https://img.icons8.com/small/48/000000/github.png"/>' alt='linkedin' height='40'>](https://www.linkedin.com/in/jayati-mishra-b1084a1bb/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_jayatimishra_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/HermGrange23)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/vM6rCfGw-d3jcQFj5r35ZQ)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/hermgrange23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hermgrange23" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jayati-mishra-b1084a1bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayati-mishra-b1084a1bb" height="30" width="40" /></a>
+<a href="https://instagram.com/_jayatimishra_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jayatimishra_" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/jayami" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jayami" height="30" width="40" /></a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayatimishra&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">My Skillset:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jayatimishra&show_icons=true&theme=radical)  
+<p><img align="center" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayatimishra&show_icons=true&theme=radical" alt="jayatimishra" /></p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jayatimishra&show_icons=true&theme=radical)  
+<p><img width="44%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayatimishra&show_icons=true&theme=radical" alt="jayatimishra" /></p>
+
+<img align="center" alt="Jayati's Activity Graph" width="99%" src="https://activity-graph.herokuapp.com/graph?username=yash22arora&bg_color=191621&color=e4dc87&line=cc70a9&point=ffffff&hide_border=true">
 
