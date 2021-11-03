@@ -32,7 +32,7 @@
 
 <p align="center">
 <a href="https://github.com/jayatimishra">
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayatimishra&layout=compact&theme=radical&hide_border=true&hide_title=true" />
+<img width="22%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayatimishra&layout=compact&theme=radical&hide_border=true&hide_title=true" />
 
 <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayatimishra&theme=radical&hide_border=true&include_all_commits=true&hide_title=true" />
   
