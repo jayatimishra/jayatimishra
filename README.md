@@ -14,7 +14,7 @@
 - 🤝 I'm looking for help with Data Structures and Algos
 - 🎶 I'm a music aficionado...
 - 😄 Pronouns: She/Her 
-- ⚡ Fun fact: I was srydying in my 11th school in 10th grade 🤓 
+- ⚡ Fun fact: I was studying in my 11th school in 10th grade 🤓 
 
 <br>
 
