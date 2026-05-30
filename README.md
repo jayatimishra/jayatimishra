@@ -7,7 +7,7 @@
 
 <h3>Here's my intro:</h3>
 
-- 🏦 ML Engineer at **JPMorgan Chase**, Bangalore - building AI-driven compliance automation & multi-agent SDLC pipelines
+- 🏦 Software Engineer at **JPMorgan Chase**, Bangalore - building AI-driven compliance automation & multi-agent SDLC pipelines
 - 🎓 Pursuing **MTech AI/ML** (NLP specialization) at BITS Pilani WILP
 - 🏆 Smart India Hackathon 2022 Winner · Top 10 JPMC Global Hackathon 2025
 - ☁️ AWS Certified ML Specialty · HashiCorp Terraform Associate
@@ -22,8 +22,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/jayati-mishra-b1084a1bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayati-mishra-b1084a1bb" height="30" width="40" /></a>
 <a href="https://twitter.com/hermgrange23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hermgrange23" height="30" width="40" /></a>
-<a href="https://instagram.com/_jayatimishra_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jayatimishra_" height="30" width="40" /></a>
-</p>
+
 
 <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayatimishra&layout=compact&theme=radical&hide_border=true&hide_title=true" />
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayatimishra&theme=radical&hide_border=true&include_all_commits=true&hide_title=true" />
